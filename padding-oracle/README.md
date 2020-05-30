@@ -8,7 +8,7 @@ Notes:
 ## Usage
 
 ```
-$ ./padding-oracle-encrypt.py -h
+$ ./padding-oracle.py -h
 usage: padding-oracle-encrypt.py [-h] [-p PLAINTEXT] [-D] {GET,POST} url block_size ciphertext_param
 
 ##### Padding Oracle Attack script #####
